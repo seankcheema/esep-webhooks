@@ -1,16 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "hmO729N1NkmH8Bzg6242wAo6192N9wQEKI3UI92xyYyNK7hRGE4O5G48gd9ewJ2k4e/iobUmOCiEyp8FETBYNA==",
+  "dgSpecHash": "8ztBMwQ4T5pd1eweJaKAx5CrS3Z/Q0CMddX6uT/LNY5QOoIJS42FAT02QAdHuGmiLLa3in/JvfiEGPUVNnxLzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\skc32\\Documents\\GitHub\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\skc32\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
     "C:\\Users\\skc32\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
     "C:\\Users\\skc32\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\skc32\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
-    "C:\\Users\\skc32\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.23\\microsoft.netcore.app.crossgen2.win-x64.6.0.23.nupkg.sha512",
     "C:\\Users\\skc32\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
-    "C:\\Users\\skc32\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512"
+    "C:\\Users\\skc32\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.23\\microsoft.netcore.app.runtime.linux-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\skc32\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\skc32\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\skc32\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.23\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\skc32\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.23\\microsoft.netcore.app.crossgen2.win-x64.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }
